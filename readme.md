@@ -1,4 +1,4 @@
-# Wintersmith / Grunt.js / gh-pages example
+# Wintersmith / Grunt.js / gh-pages
 
 This is a demo set up to show a possible workflow for using the [Wintersmith](http://wintersmith.io) static site generator, along with [Grunt.js](http://gruntjs.com/) to handle processing SASS and deploying to Github pages.
 
