@@ -47,7 +47,7 @@ module.exports = function(grunt) {
     'gh-pages': {
       options: {
         base: 'build',
-        repo: 'git@github.com:donovanh/test.git'
+        repo: 'git@github.com:donovanh/wintersmith.git'
       },
     src: ['**/*']
   }
