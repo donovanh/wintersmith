@@ -2,8 +2,6 @@
 
 This is a demo set up to show a possible workflow for using the [Wintersmith](http://wintersmith.io) static site generator, along with [Grunt.js](http://gruntjs.com/) to handle processing SASS and deploying to Github pages.
 
-The default [wintersmith](https://github.com/jnordberg/wintersmith) template
-
 Deployed example page: [hop.ie/wintersmith](http://hop.ie/wintersmith)
 
 ## Getting started
