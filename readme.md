@@ -48,11 +48,11 @@ If you have keys set up with Github, you can then deploy to your repo's `gh-page
 
 	grunt deploy
 
-## License
-
-MIT applies. Feel free to use this for experimentation or beginning your own projects.
-
 ## Pull requests and questions
 
 All pull requests welcome, please also send an email to donovan@learnsome.co if you have any questions. I am on Twitter also as [@donovanh](http://twitter.com/donovanh).
+
+## License
+
+MIT applies. Feel free to use this for experimentation or beginning your own projects.
 
